@@ -1,0 +1,7 @@
+## Interface: 100002
+## Author: Keyboardturner
+## Version: 1.1
+## Title: TargetSwapSound
+## Notes: Because sometimes some unit frame addons (unintentionally) remove the targetting / deselect sounds.
+
+core.lua
