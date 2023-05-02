@@ -1,6 +1,6 @@
 ## Interface: 30401
 ## Author: Keyboardturner
-## Version: 1.3
+## Version: 1.4
 ## Title: TargetSwapSound
 ## Notes: Because sometimes some unit frame addons (unintentionally) remove the targetting / deselect sounds.
 
