@@ -1,7 +1,10 @@
 ## Interface: 11404
 ## Author: Keyboardturner
-## Version: 1.6
+## Version: @project-version@
 ## Title: TargetSwapSound
 ## Notes: Because sometimes some unit frame addons (unintentionally) remove the targetting / deselect sounds.
+## X-Curse-Project-ID: 687605
+## X-WoWI-ID: 26480
+## X-Wago-ID: XrNk4O6a
 
 core.lua
