@@ -1,3 +1,7 @@
+# 2.5
+
+11.1.5 toc update & addon category
+
 # 2.4
 
 11.1.0 toc update
