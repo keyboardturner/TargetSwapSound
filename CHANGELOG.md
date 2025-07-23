@@ -1,3 +1,7 @@
+# 2.7
+
+Classic version fix
+
 # 2.6
 
 11.1.7 toc update
