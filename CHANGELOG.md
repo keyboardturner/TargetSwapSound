@@ -1,3 +1,7 @@
+# 3.7
+
+WoW Forever testing - This is an in-development testing version. Some things may throw errors or explode.
+
 # 3.6
 
 TBC toc support and classic toc updates
